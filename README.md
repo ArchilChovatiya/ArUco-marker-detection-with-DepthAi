@@ -1,5 +1,5 @@
 # ArUco-marker-detection-with-DepthAi
-With the help of OAK-D camera and DepthAI spatial data ( position in 3 dimension ) is generated for ArUco markers. Also with respect to marker position of camera is calculated snd displayed.
+With the help of OAK-D camera and DepthAI spatial data ( 3 dimensional position ) is generated for ArUco markers. Also with respect to marker position of camera is calculated snd displayed.
 
 
 # Requirements
