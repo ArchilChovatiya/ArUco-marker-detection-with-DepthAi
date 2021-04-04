@@ -3,11 +3,11 @@ With the help of OAK-D camera and DepthAI spatial data ( position in 3 dimension
 
 
 # requirements
-depthai==2.1.0.0
-opencv-contrib-python==4.5.1.48
-numpy==1.19.3
-matplotlib==3.4.1
-pickle5==0.0.11
+depthai==2.1.0.0</br>
+opencv-contrib-python==4.5.1.48</br>
+numpy==1.19.3</br>
+matplotlib==3.4.1</br>
+pickle5==0.0.11</br>
 scikit-learn==0.24.1
 
 # Demonstration video
